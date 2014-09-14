@@ -1,0 +1,36 @@
+Idee und Grafisches Konzept
+
+Bei der Ideenfindung habe ich mir bekannte Datenbankseiten wie imdb.com oder transfermarkt.de angeguckt. Also Seiten die dazu dienen, schnell und einfach Informationen abzurufen.
+Da sich die Informationen, welche auf imdb.com angeboten werden, denen von comics.org sehr ähnlich sind (Name, Autor, Public Date, Folgen etc), habe ich den Aufbau von imdb.com als Vorlage verwendet.
+Mir war es wichtig, dass der spätere User sobald er die Informationsseiten über die Ausgabe(ausgabe.html) und Serie (serie.html) öffnet, sofort die wichtigsten Informationen findet. Mit Hilfe der ausklappbaren Texten findet er, falls gewünscht, weitere Informationen über die Ausgabe oder die Serie.
+Grafisch habe ich versucht die Seite sehr einfach zu halten. Headlines sind mit einem Balken farbig hinterlegt. Auf die Farben werde ich später noch genauer eingehen, aber sie sind im Bezug auf Comics gewählt und sollen ein „vertrautes“ Gefühl herbeirufen und eine ruhige Atmosphäre bieten.
+
+Styletiles 
+
+Auswahl des Styletiles mit Begründung 
+Ich habe mich für Styletiles Nr. 3 entschieden, da ich den Aufbau und die Farbwahl an ruhigsten und sehr übersichtlich empfunden habe. Menü, Suchfeld und Login sind nebeneinander und werden nicht mehr durch das Logo getrennt. Meiner Meinung nach macht, dies auch die Bedienung im Hinblick auf die mobile Version einfacher.
+Die Links sind jetzt am rechten Bildrand und leichter zu erreichen.
+Veränderungen gegenüber dem ersten Entwurfsschritt mit Begründung 
+Am Anfang hatte ich die Links im Footer eingebunden. Dort waren sie meiner Meinung nach aber schlecht zusehen und der User hätte in manchen Fällen erst runterscrollen müssen. Auch die Position am linken Bildrand neben den News fand ich nicht optimal. Dort störten sie den Lesefluss der News. Schließlich habe ich sie am rechten Bildrand positioniert. Auch die Anordnung von Logo, Menü, Suchfeld und Login habe ich mehrfach geändert. Dies geschah im Hinblick auf die einfachere Bedienung der mobilen Version.
+Überlegungen zu Typografie, Farben, Layout, Raster 
+Als Typografie habe ich Calibri Light gewählt. Ich wollte lediglich eine einzige Font benutzen, um den einfachen und übersichtlichen Style bezubehalten. Bei der Farbwahl habe ich mich von älteren Comics inspirieren lassen und 4 Farben gewählt, welche den Content am übersichtlichsten voneinander trennen und Struktur verleihen.
+
+Bilder
+
+Das Layout sollte sehr strukturiert sein, damit der User nicht lange gucken muss um die Informationen zu finden, welche er sucht. Dies gelingt mit diesem Aufbau meiner Meinung nach am einfachsten und besten.
+Angaben zu Typografie, Farben, Layout, Raster 
+Typografie Calibri Light
+#D88A8A – header
+#C2C2C2 – background
+#F8EDD1 – mittelteil
+#C5CFC6 – hintergrund header
+#9D9D93 – footer
+header 12% height
+news 75%
+Das Layout ist unterteilt in Header, Contentbereich und Footer. Der Header unterteilt sich in Logo und Navigation( Suche,Menü und Login). Der Contentbereich ist in News und Links aufteilt. Die News nimmt ca. ¾ des Contentbereiches ein
+Überlegungen zum Responsive Webdesign und dessen Umsetzung. 
+
+Das Layout der Seite sollte sich durch das responsive Webdesign nicht großartig verändern. Wird die Seite auf einem Smartphone geladen, ändert sich nur minimal der Header und der Contentbereich.
+Ich habe ein bereits ausgeklapptes Menü gewählt, wodurch die einzelnen Menüpunkte sofort sichtbar sind für den Nutzer. Das Suchfeld und der Loginbereichen komplettieren das Menü.
+Im Contentbereich habe ich mich entschieden, die Links auszublenden und den News dadurch mehr Platz zu bieten. Meiner Meinung nach spielen die Links für den User der mobilen Ansicht keine so große Rolle, wodurch sie unbedingt eingeblendet werden müssen. User die bestimmte Seiten wie „Todays Changes“ , „Deutsche Startseite“ oder „Calendar“ oft nutzen, werden sich diese als Lesezeichen speichern und nicht über die Links auf der Startseite gehen.
+Der Footer hat sich nicht verändert.
