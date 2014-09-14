@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<link rel="stylesheet" media="screen and (min-width: 480px) and (max-width: 1000px)"     href="small.css" />
+<link rel='stylesheet' media='screen and (min-width: 1000px)'     href='medium.css' />
+</head>
+
+<body text="#474843">
+<div id="Container">
+  <div id="Header">
+    <div id="Logo"></div>
+    <div id="Navigation">
+      <h1>|Today's covers|
+        |About GCD|
+        |How to Help|
+        |Tutorial|
+        |Documentation|
+        |Mailing Lists|
+        |Contact Us|</h1>
+      <form action="input_text.htm">
+        <p>
+          <input name="vorname" type="text" size="30" maxlength="30">
+          <a href="suche.html">
+          <input type="button" value="suchen" />
+          </a> </p>
+      </form>
+      </p>
+    </div>
+    <div id="Navigation_phone">
+      <h1> |Today's covers|
+        |About GCD|
+        |How to Help|
+        |Tutorial|
+        |Documentation|
+        |Mailing Lists|
+        |Contact Us|
+        |Login|
+        |Suche| </h1>
+    </div>
+    <div id="login"> <img src="social.png" width="180" height="45" />
+      <form id="form1" name="form1" method="post" action="">
+        <label for="user"></label>
+        <input type="text" name="user" id="user" value="Enter Username" />
+        <label for="password"></label>
+        <input type="text" name="password" id="password" value="Enter Password" />
+        <input type="submit" name="Suchen" id="Suchen" value="Login" />
+      </form>
+    </div>
+  </div>
+  <div id="Content1">
+    <div id="News">
+      <p><strong>consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</strong></p>
+      <p> Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. </p>
+      <p><strong>Phasellus viverra nulla ut metus varius laoreet.</strong></p>
+      <p> Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae</p>
+      <p> <strong>justo. Nullam dictum felis eu pede mollis pretium. </strong></p>
+      <p>Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus.vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
+    </div>
+    <div id="Links">
+      <div id="useful_links">Useful Links </div>
+      <div class="Content">
+        <li><a href="cover.html">Gallery</a></li>
+        <li><a href="ausgabe.html">Ausgabe</a></li>
+        <li><a href="cover.html">Serie</a></li>
+        <li><a href="suche.html">Suche</a></li>
+        <li><a href="details.html">Details</a></li>
+      </div>
+      <div id="last-update">Last Updated Issues </div>
+      <div class="Content">
+        <li>Last Updated Issues</li>
+        <li>Last Updated Issues 2</li>
+        <li>Last Updated Issues 3</li>
+        <li>Last Updated Issues 4</li>
+        <li> Last Updated Issues 5</li>
+        <li>Last Updated Issues 6</li>
+        <li>Last Updated Issues 7</li>
+      </div>
+      <div id="statistic">Statistic</div>
+      <div class="Content">
+        <li>7,775 publishers</li>
+        <li>5,160 brands</li>
+        <li>4,044 indicia publishers</li>
+        <li>78,956 series</li>
+        <li>1,003,643 issues</li>
+        <li>202,690 issue indexes</li>
+        <li>492,313 covers</li>
+      </div>
+      <div id="calendar">Calendar</div>
+      <div class="Content"> <img src="calendar.png" width="160" height="107" /> </div>
+    </div>
+  </div>
+  <div class="foot" id="footer"> All portions of the Grand Comics Database that are subject to copyright are licensed under a Creative Commons Attribution 3.0 Unported License. This includes but is not necessarily limited to our database schema and data distribution format.
+    The GCD Privacy Policy. The GCD Web Site code is licensed under the GNU General Public License. </div>
+  <div style="clear: both;"></div>
+</div>
+</body>
+</html>
